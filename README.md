@@ -62,11 +62,4 @@ AI transcript materials are in:
 - `transcripts/codex-session.md`
 - Note: Both Codex and Gemini Code Assist were used during the completion of this task.
 
-## Manual Submission Items
 
-The Google Form still needs:
-
-- GitHub repo URL
-- 5-minute video link
-- resume upload
-- contact details
